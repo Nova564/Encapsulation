@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="exo_surcharge.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Mob.cpp" />
     <ClCompile Include="personnalTEST.cpp" />
@@ -141,6 +142,7 @@
     <ClInclude Include="BreakableObject.h" />
     <ClInclude Include="Entity.h" />
     <ClInclude Include="IAttacker.h" />
+    <ClInclude Include="Integer.h" />
     <ClInclude Include="Mob.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="point.h" />
