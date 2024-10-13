@@ -1,8 +1,18 @@
 #include <iostream>
+#include "World.h"
 
 int main() {
-	int a = 0;
-	int* p_int = &a;
-	std::cout << "A a une valeur de : " << a << std::endl;
-	std::cout << "L'adresse de A est : " << p_int << std::endl;
+    World world;
+    world.Init();
+
+    char continueSimulation;
+    do {
+        world.Step();
+
+        std::cout << "Touche C puis entrer pour continuer la simulation :  ";
+        std::cin >> continueSimulation;
+
+    } while (continueSimulation == 'c');
+
+    return 0;
 }

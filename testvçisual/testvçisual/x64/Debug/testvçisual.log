@@ -1,4 +1,19 @@
 ﻿  main.cpp
-  testvçisual.vcxproj -> C:\Users\nassi\Downloads\testvçisual\x64\Debug\testvçisual.exe
+C:\Users\nassi\OneDrive\Documents\GitHub\Encapsulation\testvçisual\Alive.h(30,11): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  (compiler le fichier source 'main.cpp')
+  
+  Mob.cpp
+C:\Users\nassi\OneDrive\Documents\GitHub\Encapsulation\testvçisual\Alive.h(30,11): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  (compiler le fichier source 'Mob.cpp')
+  
+  Player.cpp
+C:\Users\nassi\OneDrive\Documents\GitHub\Encapsulation\testvçisual\Alive.h(30,11): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  (compiler le fichier source 'Player.cpp')
+  
+  test.cpp
+  Vector2.cpp
+  Génération de code en cours...
+  LINK : C:\Users\nassi\OneDrive\Documents\GitHub\Encapsulation\testvçisual\x64\Debug\testvçisual.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  testvçisual.vcxproj -> C:\Users\nassi\OneDrive\Documents\GitHub\Encapsulation\testvçisual\x64\Debug\testvçisual.exe
   'pwsh.exe' n'est pas reconnu en tant que commande interne
   ou externe, un programme exécutable ou un fichier de commandes.
